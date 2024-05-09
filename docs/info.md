@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A NOT gate, also known as an inverter, is a fundamental component in digital electronics, performing a straightforward yet crucial function. Its operation is simple: it takes an input signal and produces the logical complement of that signal as output. In other words, if the input is high (1), the output will be low (0), and if the input is low (0), the output will be high (1). This inversion process forms the basis for various logical operations and circuit designs. NOT gates are commonly used in combination with other gates to create more complex circuits, enabling the implementation of Boolean logic and digital computation. Whether implemented through discrete electronic components like transistors or through software algorithms, the NOT gate's role remains essential in modern computing systems, underpinning their functionality and versatility.
 
 ## How to test
 
-Explain how to use your project
+Testing a NOT gate involves verifying that it performs its intended function: producing the logical complement of its input. One common method is to apply both logic states (0 and 1) to the gate's input and observe the corresponding output. 
 
 ## External hardware
 
